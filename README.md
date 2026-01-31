@@ -203,24 +203,32 @@ AI-powered mental health support agent
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/udayan-mal">
-    <img src="https://github-readme-stats.vercel.app/api?username=udayan-mal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/udayan-mal">
-    <img src="https://streak-stats.demolab.com?user=udayan-mal&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=udayan-mal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=udayan-mal&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=udayan-mal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>  
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=udayan-mal&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=udayan-mal&theme=default&hide_border=true" />
+    <img height="165" src="https://streak-stats.demolab.com?user=udayan-mal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>  
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/udayan-mal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayan-mal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=udayan-mal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=udayan-mal&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=udayan-mal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />  
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/udayan-mal">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=udayan-mal&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=udayan-mal&theme=tokyo-night&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=udayan-mal&theme=minimal&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=udayan-mal&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>  
+  </picture>
 </p>
 
 ---
