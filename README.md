@@ -11,7 +11,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://udayanmal.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/udayan-mal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/udayan-mal-abb377259/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/udayan-mal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -24,22 +24,17 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const udayan = {
-    education: "B.Tech CSE @ Guru Nanak Institute of Technology, Kolkata (2022-2026)",
-    cgpa: "9.02/10",
-    role: "Full-Stack Developer",
-    currentFocus: ["AI-Powered Applications", "SaaS Products", "Open Source"],
-    achievements: ["SBH 2024 Finalist (Top 80/1000+)", "GSSoC '24 & '25 Contributor"],
-    askMeAbout: ["Web Dev", "MERN Stack", "Next.js", "TypeScript", "System Design"],
-    funFact: "I debug with console.log and I'm proud of it! 🐛"
-};
-```
+🎓 **B.Tech CSE** @ Guru Nanak Institute of Technology, Kolkata (2022-2026) | **CGPA: 9.02/10**
 
-🎓 **Final Year CSE Student** passionate about building scalable full-stack applications  
-🚀 **Smart Bengal Hackathon 2024 Finalist** - Top 80 from 1,000+ teams  
-🌱 Currently exploring **AI/ML integrations** & **Cloud Technologies**  
-💼 **Open to:** Software Engineer, Full-Stack Developer, SDE Internship opportunities
+💼 **Full-Stack Developer** specializing in MERN Stack, Next.js & TypeScript
+
+🚀 **Current Focus:** AI-Powered Applications • SaaS Products • Open Source
+
+🏆 **Achievements:** Smart Bengal Hackathon 2024 Finalist (Top 80/1000+) • GSSoC '24 & '25 Contributor
+
+💬 **Ask me about:** Web Development, MERN Stack, Next.js, TypeScript, System Design
+
+⚡ **Fun Fact:** I debug with console.log and I'm proud of it! 🐛
 
 ---
 
@@ -208,16 +203,24 @@ AI-powered mental health support agent
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udayan-mal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayan-mal&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
+  <a href="https://github.com/udayan-mal">
+    <img src="https://github-readme-stats.vercel.app/api?username=udayan-mal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/udayan-mal">
+    <img src="https://streak-stats.demolab.com?user=udayan-mal&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayan-mal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/udayan-mal">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayan-mal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udayan-mal&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
+  <a href="https://github.com/udayan-mal">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=udayan-mal&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  </a>
 </p>
 
 ---
@@ -259,7 +262,7 @@ AI-powered mental health support agent
 
 <p align="center">
   <a href="https://udayanmal.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-667eea?style=for-the-badge"/></a>
-  <a href="https://linkedin.com/in/udayan-mal"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/udayan-mal-abb377259/"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
